@@ -1,11 +1,11 @@
 .idea/
-node_modules/
+.github/
 .nyc_output/
-coverage/
 examples/
-out/
+node_modules/
+src/
 test/
 .gitignore
-.travis.yml
-.gitlab-ci.yml
-.github
+icon.png
+tsconfig.json
+tsconfig.testing.json
